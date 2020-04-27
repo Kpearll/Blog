@@ -1,6 +1,6 @@
 # Site settings
 title: Blog                       #博客首页的标题
-SEOTitle: Blog                    #显示在浏览器上搜索的时候显示的标题
+SEOTitle: Kpearl | BY Blog        #显示在浏览器上搜索的时候显示的标题
 header-img: img/post-bg-desk.jpg  #首页的背景图片
 email: 
 description: "这是一个介绍"
