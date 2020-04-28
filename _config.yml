@@ -1,13 +1,13 @@
 # Site settings
 title: Blog                #博客的标题
 SEOTitle: Kpearl Blog      #显示在浏览器上搜索的时候显示的标题
-header-img: img/home-bg-dn.jpg #首页的背景图片
+header-img: img/home-bg-nature.jpg #首页的背景图片
 #email: 
 description: "这是一个介绍"
 keyword: "Blog, Kpearl"
 url: "http://kpearl.cn"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
-github_repo: "https://github.com/qiubaiying/qiubaiying.github.io.git" # you code repository
+#github_repo: "https://github.com/qiubaiying/qiubaiying.github.io.git" # you code repository
 
 # Sidebar settings
 #sidebar: true                           # whether or not using Sidebar.
