@@ -62,3 +62,5 @@ sudo git clone https://github.com/spoonysonny/pi-dashboard.git
 
 ### 访问 Pi Dashboard
 现在可以通过 ```http://IP地址/pi-dashboard``` 访问部署好了的 Pi Dashboard。
+
+参考链接：[在 Raspbian 上部署 LNMP + Pi Dashboard](https://shumeipai.nxez.com/2020/03/21/install-pi-dashboard-with-nginx-php73-on-pi.html)
