@@ -19,7 +19,7 @@ description: "这是一段话."
         </div>
     </a>
     <p class="post-meta">
-         {% if post.author %}{{ post.author }}{% else %}{{ site.title }}{% endif %}  /   {{ post.date | date: "%B %-d, %Y" }}
+         {% if post.author %}{{ post.author }}{% else %}{{ site.title }}{% endif %}  /   {{ post.date | date: "%Y年%B %-d日" }}
     </p>
 </div>
 <hr>
